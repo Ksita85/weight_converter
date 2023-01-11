@@ -1,0 +1,20 @@
+body{
+    margin-top: 70px;
+    color:#fff;
+    background-color: #000;
+    opacity: 0.8;
+    background-image:  linear-gradient(135deg, #111111 25%, transparent 25%), linear-gradient(225deg, #111111 25%, transparent 25%), linear-gradient(45deg, #111111 25%, transparent 25%), linear-gradient(315deg, #111111 25%, #000 25%);
+    background-position:  13px 0, 13px 0, 0 0, 0 0;
+    background-size: 13px 13px;
+    background-repeat: repeat;
+}
+
+footer{
+    opacity: 0.5;
+    margin-bottom: 0px;
+    position: fixed;
+    height: 45px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+}
